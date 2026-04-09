@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Taizhou Cypress Import & Export Co., Ltd",
+  "alternateName": "Cypress Shoes",
+  "url": "https://www.cypressfootwear.com",
+  "logo": "https://www.cypressfootwear.com/assets/images/page1_img1.jpeg",
+  "description": "Professional sport shoes manufacturer and exporter in Taizhou, China. Kids, men and women sport shoes. OEM/ODM services available.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Taizhou",
+    "addressRegion": "Zhejiang",
+    "addressCountry": "CN"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-158-6708-5960",
+    "contactType": "sales",
+    "email": "lily@tzcypress.com",
+    "availableLanguage": ["English", "Chinese"]
+  },
+  "sameAs": []
+}
