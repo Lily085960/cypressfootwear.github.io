@@ -121,7 +121,7 @@
             <h3>Inquiry Sent Successfully!</h3>
             <p>Thank you, <strong>${escapeHtml(name)}</strong>! We've received your message and will reply to <strong>${escapeHtml(email)}</strong> within 24 hours.</p>
             <p style="margin-top:14px">Or reach us directly on WhatsApp:<br/>
-              <a href="https://wa.me/8615867085960" style="color:#1a56db;font-weight:600">+86 158 6708 5960 (Lily)</a>
+              <a href="https://wa.me/8615347090384" style="color:#1a56db;font-weight:600">+86 153 4709 0384 (Lily)</a>
             </p>
           </div>`;
       }, 800);
@@ -214,7 +214,7 @@
     },
     {
       keys: ['price', 'cost', 'fob', 'quote', 'quotation'],
-      ans: 'Pricing depends on style complexity, materials, and quantity. Please contact Lily directly at lily@tzcypress.com or WhatsApp +86 158 6708 5960 for a detailed quote.'
+      ans: 'Pricing depends on style complexity, materials, and quantity. Please contact Lily directly at lily@tzcypress.com or WhatsApp +86 153 4709 0384 for a detailed quote.'
     },
     {
       keys: ['delivery', 'lead time', 'shipping', 'production time'],
@@ -246,7 +246,7 @@
     },
     {
       keys: ['contact', 'whatsapp', 'email', 'phone', 'reach', 'lily'],
-      ans: 'You can reach Lily directly:\n📞 +86 158 6708 5960 (WhatsApp/Phone)\n✉️ lily@tzcypress.com\nWe typically respond within a few hours during business hours (China time).'
+      ans: 'You can reach Lily directly:\n📞 +86 153 4709 0384 (WhatsApp/Phone)\n✉️ lily@tzcypress.com\nWe typically respond within a few hours during business hours (China time).'
     },
     {
       keys: ['catalog', 'catalogue', 'new styles', 'collection'],
@@ -261,7 +261,7 @@
         return item.ans;
       }
     }
-    return "Thanks for your question! For detailed answers, please contact Lily directly:\n💬 WhatsApp: +86 158 6708 5960\n✉️ lily@tzcypress.com\nShe'll get back to you quickly!";
+    return "Thanks for your question! For detailed answers, please contact Lily directly:\n💬 WhatsApp: +86 153 4709 0384\n✉️ lily@tzcypress.com\nShe'll get back to you quickly!";
   }
 
 
